@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'MonzoSansBold';
-  src: url("./MonzoSansText-Bold.woff2") format('woff2');
+  font-family: "MonzoSansBold";
+  src: url("./MonzoSansText-Bold.woff2") format("woff2");
 }
 :root {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -16,10 +16,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --accent-color: #7b2da3;
-  --link-color: #906197;
-  --section-header-color: #401e61;
-  --display-font: 'Raleway';
+  --accent-color: #4f79da;
+  --link-color: #7497ef;
+  --section-header-color: #23459b;
+  --display-font: "Raleway";
 
   /* Peanut */
   /* --accent-color: #f8dfe1;
